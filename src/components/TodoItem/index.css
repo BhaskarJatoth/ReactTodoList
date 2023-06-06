@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+button {
+  background-color: #fff;
+  color: #ff0b37;
+  border: 2px solid #ff0b37;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+p {
+  font-size: 20px;
+  color: #000000;
+}
